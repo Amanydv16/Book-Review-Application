@@ -1,4 +1,5 @@
-# Book-Review-Application
+# 📚 Express Book Review Application (IBM Project)
+
 This project was designed and implemented by Aman Yadav as part of the IBM Back-End Development Course on Coursera. It is a Node.js and Express-based backend application that demonstrates efficient REST API design, user authentication, and asynchronous programming using modern JavaScript practices.
 
 The application supports both general users and registered users, with clearly separated routes and responsibilities. Aman Yadav focused on writing clean, modular, and scalable code, ensuring efficient request handling, proper routing, and easy extensibility. Client-side testing was implemented using Axios, showcasing different asynchronous approaches such as Async/Await, Promises, and Callbacks.
